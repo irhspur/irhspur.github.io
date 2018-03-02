@@ -110,6 +110,7 @@ function Circle(x, y, dx, dy, radius) {
 }
 
 var circleArray = [];
+init();
 
 // var circle = new Circle(200, 200, 3, 3, 30);
 
